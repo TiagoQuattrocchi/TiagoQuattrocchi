@@ -1,16 +1,25 @@
-### Hi there 👋
+¡Hola!
 
-<!--
-**TiagoQuattrocchi/TiagoQuattrocchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+me llamo **Tiago Quattrocchi** tengo 15 años
 
-Here are some ideas to get you started:
+Vivo en __Buenos Aires, Argentina__
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estoy en una escuela secundaria tecnica 🏫 siguendo la especialidad de _avionica_
+
+Datos sobre mi:
+
+*Me gusta el color rojo 🔴
+
+*Escucho todo tipo de musica 🎶
+
+*Soy detallista
+
+*Me gusta jugar videojuegos:RPG's, sigilo, hack and slash, entre otros 🎮
+
+*me gusta hacer actividades que pongan a prueba mi mente y razonamiento ✏️
+
+*me gusta hacer deportes ocacionalmente ⚽
+
+*Me gusta ver las redes sociales de vez en cuando 📱
+
+*Me gusta aprender y probar nuevas cosas
