@@ -4,7 +4,7 @@ me llamo **Tiago Quattrocchi** tengo 15 años
 
 Vivo en __Buenos Aires, Argentina__
 
-Estoy en una escuela secundaria tecnica 🏫 siguendo la especialidad de _avionica_
+Estoy en la escuela secundaria tecnica _E.E.S.T Nº7_ y estoy en 4º2 avionica  
 
 Datos sobre mi:
 
