@@ -7,4 +7,6 @@ __Buenos Aires, Argentina__
 
 __E.E.S.T Nº7__ 
 
-__7º2 avionica__  
+__7º2 avionica__
+
+<img src="https://github.com/TiagoQuattrocchi/TiagoQuattrocchi/blob/main/dragon%20de%20dojima.png">
