@@ -9,4 +9,4 @@ __E.E.S.T Nº7__
 
 __7º2 avionica__
 
-<img src="https://github.com/TiagoQuattrocchi/TiagoQuattrocchi/blob/main/matrix.jpg">
+<img src="https://github.com/TiagoQuattrocchi/TiagoQuattrocchi/blob/main/yakuza.png">
